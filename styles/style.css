@@ -1,0 +1,15 @@
+.header {}
+
+.nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.logo-link {}
+
+.login-link {}
+
+.main {}
+
+.footer {}
